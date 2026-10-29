@@ -87,7 +87,7 @@ export const portfolioData = {
       description: "A centralized database system for migrant and non-migrant patients that securely stores diagnosis records accessible to doctors and patients, improving healthcare data availability across different locations.",
       technologies: ["Java", "Spring Boot", "React", "JavaScript", "MySQL"],
       featured: true,
-      demoUrl: null,
+      demoUrl: "https://health-yatra.vercel.app/",
       githubUrl: "https://github.com/mayank-k-mrj/HealthYatra",
       gradient: "from-emerald-500/20 via-teal-600/20 to-slate-900/30",
       accentColor: "#6db33f"

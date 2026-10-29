@@ -56,6 +56,7 @@ export function TerminalCLI() {
           content: `1. MedSetu (Medicine Donation & Trading Platform for NGOs)
    GitHub: https://github.com/mayank-k-mrj/MedSetu_Project
 2. HealthyYatra (Centralized Patient & Migrant Health Database)
+   Live Demo: https://health-yatra.vercel.app/
    GitHub: https://github.com/mayank-k-mrj/HealthYatra
 3. Habit Streak Tracker (Consistency Tracking Application)
    Live Demo: https://habitstreaktracker.onrender.com/
